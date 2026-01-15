@@ -4,6 +4,6 @@ title: The Octopus Pattern
 author: Mazhum
 ---
 
-Many arms compute  
-Shared intent, no central brain  
-Distributed will
+Many arms compute <br>
+Shared intent, no central brain <br>
+Distributed will <br>
